@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI - Personal AI Assistant & Workspace",
+  "description": "Unified all-in-one AI operating workspace with voice conversation, web search grounding, document RAG, image understanding, code generation, memory, and task management.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
